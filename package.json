@@ -1,6 +1,6 @@
 {
   "name": "onwraprows",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wrap columns in rows",
   "main": "jquery.on.wrapRows.js",
   "scripts": {
