@@ -1,0 +1,24 @@
+{
+  "name": "onwraprows",
+  "version": "1.0.0",
+  "description": "Wrap columns in rows",
+  "main": "jquery.on.wrapRows.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://owennicol:horny0202@github.com/owennicol/onWrapRows.git"
+  },
+  "keywords": [
+    "Jquery",
+    "wrap",
+    "rows"
+  ],
+  "author": "Owen Nicol (https://github.com/owennicol/onWrapRows)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/owennicol/onWrapRows/issues"
+  },
+  "homepage": "https://github.com/owennicol/onWrapRows#readme"
+}
